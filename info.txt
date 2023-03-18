@@ -1,2 +1,0 @@
-link=https://discord.com/api/oauth2/authorize?client_id=1086168190599581746&permissions=1392102221942&scope=bot
-token=MTA4NjE2ODE5MDU5OTU4MTc0Ng.G7Wu9v.2oEP0o6fkfNcX6W5oMt6u7EuHF4Hz0mOYjkOx4
