@@ -1,3 +1,5 @@
+import bot
+
 if __name__ == "__main__":
-    # Run the bot
+    bot.execute_bot()
     pass
